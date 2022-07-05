@@ -150,7 +150,7 @@
 								</div>
 								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 									<div class="card-body">
-										<?php// echo htmlspecialchars_decode($missionInformations->short_description); ?>
+										<?php // echo htmlspecialchars_decode($missionInformations->short_description); ?>
                                       <?php echo htmlspecialchars_decode($missionInformations->short_description); ?>
                                       <a href="about.php">Read More...</a>
 									</div>
