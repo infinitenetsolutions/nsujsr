@@ -261,7 +261,7 @@
 
 				</p>
 				<p>
-					<font size="4" style="font-size: 14pt"><b>LINK 1</b></font>
+					<a size="4" href="./pdf/links1.PDF" style="font-size: 14pt"><b>LINK 1</b></a>
 				</p>
 			</td>
 		</tr>
@@ -283,8 +283,7 @@
 
 				</p>
 				<p>
-					<font size="4" style="font-size: 14pt"><b>LINK 2</b></font>
-				</p>
+				<a size="4" href="./pdf/links2.PDF" style="font-size: 14pt"><b>LINK 2</b></a>				</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -304,7 +303,7 @@
 
 				</p>
 				<p>
-					<font size="4" style="font-size: 14pt"><b>LINK 3</b></font>
+				<a size="4" href="./pdf/links3.PDF" style="font-size: 14pt"><b>LINK 3</b></a>
 				</p>
 			</td>
 		</tr>
@@ -326,7 +325,7 @@
 
 				</p>
 				<p>
-					<font size="4" style="font-size: 14pt"><b>LINK 4</b></font>
+				<a size="4" href="./pdf/links4.PDF" style="font-size: 14pt"><b>LINK 4</b></a>
 				</p>
 			</td>
 		</tr>
@@ -347,7 +346,7 @@
 
 				</p>
 				<p>
-					<font size="4" style="font-size: 14pt"><b>LINK 5</b></font>
+				<a size="4" href="./pdf/links5.PDF" style="font-size: 14pt"><b>LINK 5</b></a>
 				</p>
 			</td>
 		</tr>
@@ -369,7 +368,7 @@
 
 				</p>
 				<p>
-					<font size="4" style="font-size: 14pt"><b>LINK 6</b></font>
+				<a size="4" href="./pdf/links6.PDF" style="font-size: 14pt"><b>LINK 6</b></a>
 				</p>
 			</td>
 		</tr>
@@ -413,7 +412,7 @@
 			</td>
 			<td width="198" style="border: 1px solid #000000; padding: 0in 0.08in">
 				<p>
-					<font size="4" style="font-size: 14pt"><b>LINK 8</b></font>
+				<a size="4" href="./pdf/links8.PDF" style="font-size: 14pt"><b>LINK 8</b></a>
 				</p>
 			</td>
 		</tr>
@@ -474,7 +473,7 @@
 
 				</p>
 				<p>
-					<font size="4" style="font-size: 14pt"><b>LINK 9</b></font>
+				<a size="4" href="./pdf/links9.PDF" style="font-size: 14pt"><b>LINK 9</b></a>
 				</p>
 			</td>
 		</tr>
@@ -494,7 +493,7 @@
 
 				</p>
 				<p>
-					<font size="4" style="font-size: 14pt"><b>LINK 10</b></font>
+				<a size="4" href="./pdf/links10.PDF" style="font-size: 14pt"><b>LINK 10</b></a>
 				</p>
 			</td>
 		</tr>
@@ -515,7 +514,7 @@
 
 				</p>
 				<p>
-					<font size="4" style="font-size: 14pt"><b>LINK 11</b></font>
+				<a size="4" href="./pdf/links11.PDF" style="font-size: 14pt"><b>LINK 11</b></a>
 				</p>
 			</td>
 		</tr>
