@@ -31,12 +31,8 @@
 
 	<!-- Slider Area Start -->
 	<div id="rs-slider" class="slider-overlay-1">
-
-
 		<div id="home-slider">
 			<!-- Item 1 -->
-
-
 
 			<?php
 			include 'include/config.php';
