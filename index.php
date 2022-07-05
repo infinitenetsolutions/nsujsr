@@ -22,15 +22,6 @@
 	<!--Preloader area start here-->
 	<!-- <input type="hidden" id="check" value="<?php echo $_SESSION["start"] = $_SESSION["start"]; ?>"> -->
 
-	<div class="book_preload">
-		<div class="book">
-			<div class="book__page"></div>
-			<div class="book__page"></div>
-			<div class="book__page"></div>
-		</div>
-	</div>
-	<!--Preloader area end here-->
-
 
 	<!--Header start-->
 	<?php require_once("include/header.php"); ?>
