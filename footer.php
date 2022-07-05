@@ -50,42 +50,7 @@
 			</div>
 			
 			 <!-- Footer Start -->
-        <footer id="rs-footer" class="bg3 rs-footer">
-			<div class="container">
-				<!-- Footer Address -->
-				<div>
-					<div class="row footer-contact-desc">
-						<div class="col-md-4">
-							<div class="contact-inner">
-								<i class="fa fa-map-marker"></i>
-								<h4 class="contact-title">Address</h4>
-								<p class="contact-desc">
-									At : Pokhari, PO:Bhilai Pahari
-PS : MGM, Dist : East Singhbhum, Jamshedpur - 832106 , Jharkhand
-								</p>
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div class="contact-inner">
-								<i class="fa fa-phone"></i>
-								<h4 class="contact-title">Phone Number</h4>
-								<p class="contact-desc">
-									+91 - 9334819258
-								</p>
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div class="contact-inner">
-								<i class="fa fa-map-marker"></i>
-								<h4 class="contact-title">Email Address</h4>
-								<p class="contact-desc">
-									info@nspsjsr.com
-								</p>
-							</div>
-						</div>
-					</div>					
-				</div>
-			</div>
+      
 			
 			<!-- Footer Top -->
             <div class="footer-top">
